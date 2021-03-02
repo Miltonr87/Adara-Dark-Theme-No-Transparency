@@ -472,7 +472,7 @@ StEntry:pressed > StIcon,
   font-size: 100%;
   width: 43px;
   height: 33px;
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color: rgba(0, 0, 0, 65);
   border-top-width: 1px;
   border-color: rgba(0, 0, 0, 0.25);
   /* When panel settings is open */

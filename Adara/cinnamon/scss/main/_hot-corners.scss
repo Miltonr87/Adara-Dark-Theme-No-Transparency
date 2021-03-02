@@ -1,8 +1,0 @@
-/* ======================================
- * ! Hot corner ripple
- * ====================================== */
-
-.ripple-box {
-	@include size(48px);
-	background-image: url("img/misc/corner-ripple.svg");
-}
