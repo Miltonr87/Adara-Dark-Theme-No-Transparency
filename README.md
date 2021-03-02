@@ -1,4 +1,4 @@
-# [Adara Cinnamon theme][repo]
+# [Adara Cinnamon Dark Theme - No transparency - ][repo]
 > Forked from Germán Franco. All credits goes to him (https://github.com/germanfr/adara-theme). I just removed the transparency!
 
 [![](Adara/screenshot.png)![](Adara-Dark/screenshot.png)][repo]
