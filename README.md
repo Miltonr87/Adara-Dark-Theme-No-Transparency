@@ -1,8 +1,8 @@
 # [Adara Cinnamon Dark Theme - No transparency - ][repo]
-> Forked from Germán Franco. All credits goes to him (https://github.com/germanfr/adara-theme). I just removed the transparency!
+> Forked from Germán Franco. Please, all credits goes to him (https://github.com/germanfr/adara-theme). I just removed the transparency for a personal taste. Some other details may change in the future ...
 
 [![](Adara/screenshot.png)![](Adara-Dark/screenshot.png)][repo]
-No transparency in menu bar (bottom)
+No transparency in menu bar (now, all black)
 
 ## Installation
 ### Cinnamon Settings (recommended)
